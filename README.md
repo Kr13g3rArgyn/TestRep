@@ -1,1 +1,2 @@
-# TestRep
+# npm install
+# npm start
